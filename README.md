@@ -3,7 +3,8 @@
 <h3 align="center">A 3rd Year Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
-
+- 👨‍💻 I’m currently working on **TRADING ROOM SIMULATION**
+  
 - 🔭 MicroFinance Platform BackEnd SpringBoot [API](https://github.com/ayabani/PIDEV-API)
 - 🔭 MicroFinance Platform FrontEnd Angular [API](https://github.com/naderch5/API-Template)
 - 🔭 E-Fit project Symfony-Java-Mobile [symfony](https://github.com/MaramBr/PIDEV.git) [mobile](https://github.com/Majdi-ML/Sprint3-Mobile.git) [java](https://github.com/MaramBr/Sprint2.git)
